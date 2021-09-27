@@ -1844,6 +1844,15 @@ footer a {
    .home__my__highlights{
    	color: aliceblue;
    }
+   .resume-title {
+     text-align: center;
+     font-weight: 500;
+     font-size: 74px;
+     letter-spacing: 5.7px;
+     line-height: 96px;
+     text-transform: uppercase;
+     margin-top: -14px;
+   }
 
 .home__blog {
   margin-bottom: 56px; }
